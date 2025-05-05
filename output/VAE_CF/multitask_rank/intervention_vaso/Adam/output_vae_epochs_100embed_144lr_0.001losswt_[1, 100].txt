@@ -1,0 +1,9 @@
+vae_epochs_100embed_144lr_0.001losswt_[1, 100]
+Test accuracy cf:0.85
+Test AUC cf:0.7254901960784313
+Conf cf:[[ 0  3]
+ [ 0 17]]
+Best val accuracy CF: 0.8
+Best val AUC CF:0.6875
+Best val conf CF:[[ 0  4]
+ [ 0 16]]
