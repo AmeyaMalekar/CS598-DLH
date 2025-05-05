@@ -9,6 +9,9 @@ This project reproduces and extends the CFVAE model from the paper "CFVAE: Count
 - Multiple ablation studies to analyze model components
 - Evaluation metrics and visualization tools
 
+## Final Report
+Link to final report: https://docs.google.com/document/d/1i2T0q8kXUgX8uDe7TldSG61dlqKUxbcNKfQ03TvqdMg/edit?usp=sharing 
+
 ## Setup
 
 1. Create a virtual environment:
